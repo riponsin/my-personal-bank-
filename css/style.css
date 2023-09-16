@@ -1,0 +1,30 @@
+body{
+    padding: 100px;
+}
+.submit_area{
+    margin-top: 50px;
+    padding: 40px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px gray;
+}
+#click_back_area{
+    display: none; 
+}
+.ripon{
+    margin: 0 10px;
+    color: white;
+    border-radius: 20px;
+    padding:10px;
+}
+.Diposit{
+     background-color: slateblue;
+}
+.Writhdraw{
+     background-color: lightsalmon;
+}
+.Balance{
+    background-color: orange;
+}
+.ripon2{
+    margin: 10
+}
